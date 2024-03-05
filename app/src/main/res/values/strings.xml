@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Readers_Books_App</string>
+    <string name="Create_Act">Please enter a valid email and password that is at least 6 characters</string>
+</resources>

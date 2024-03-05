@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333967903023",
+    "project_id": "reader-book-app",
+    "storage_bucket": "reader-book-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333967903023:android:4586a26c8e86e338cd39da",
+        "android_client_info": {
+          "package_name": "com.akshay.readers_books_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYy1XAP-b68HWmoDiZhStczHLNH4F1ZjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
